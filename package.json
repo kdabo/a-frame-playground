@@ -1,0 +1,19 @@
+{
+  "name": "vr-aframe",
+  "version": "1.0.0",
+  "description": "A-frame playground",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node_modules/.bin/nodemon index.js"
+  },
+  "author": "Katarina Dabo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "nodemon": "^2.0.7"
+  }
+}
